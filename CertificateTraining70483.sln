@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 1 - Manage program flow", "Chapter 1 - Manage program flow", "{28E3D0E0-1995-4BCB-B004-3D2E14F758F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective 1.1", "Objective 1.1", "{04CE503A-BA76-48CB-BB24-C4394CD55AA1}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04CE503A-BA76-48CB-BB24-C4394CD55AA1} = {28E3D0E0-1995-4BCB-B004-3D2E14F758F6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B412259C-3DEA-4816-85E0-45A69B6E71CC}
+	EndGlobalSection
+EndGlobal
